@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetX1_1 Pin=X1-1
+Added Pin To Net: NetName=NetX1_1 Pin=X1-1
+Added Pin To Net: NetName=NetX1_1 Pin=X1-1
+Added Pin To Net: NetName=NetX1_1 Pin=X1-1
+Change Net Name : Old Net Name=NetX1_1 New Net Name=NetX8_4
+Added Member To Class: ClassName=общая плата Member=Component X1 24pin_conn

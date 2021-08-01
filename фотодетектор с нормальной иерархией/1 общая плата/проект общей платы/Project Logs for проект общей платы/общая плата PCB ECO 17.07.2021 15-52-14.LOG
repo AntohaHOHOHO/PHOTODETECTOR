@@ -1,0 +1,34 @@
+Change Component Footprint: Designator=X3 Old Footprint=BH-24 New Footprint=PLS-2-3D
+Change Component Comment : Designator=X3 Old Comment=24pin_conn New Comment=Model
+Change Component Designator: OldDesignator=X2 NewDesignator=X8
+Change Component Designator: OldDesignator=X7 NewDesignator=X5
+Added Component: Designator=J(TE_221790-1)
+Added Component: Designator=J(TE_221790-1)
+Added Component: Designator=X1(BH-24)
+Added Component: Designator=X2(BH-24)
+Added Component: Designator=X6(BH-24)
+Added Component: Designator=X7(BH-24)
+Added Pin To Net: NetName=GND Pin=J-2
+Added Pin To Net: NetName=GND Pin=J-2
+Added Pin To Net: NetName=GND Pin=J-3
+Added Pin To Net: NetName=GND Pin=J-3
+Added Pin To Net: NetName=GND Pin=J-4
+Added Pin To Net: NetName=GND Pin=J-4
+Added Pin To Net: NetName=GND Pin=J-5
+Added Pin To Net: NetName=GND Pin=J-5
+Added Net: Name=GND
+Added Pin To Net: NetName=NetX3_1 Pin=X3-1
+Added Net: Name=NetX3_1
+Added Pin To Net: NetName=NetX3_2 Pin=X3-2
+Added Net: Name=NetX3_2
+Added Pin To Net: NetName=SIG OUT Pin=J-1
+Added Net: Name=SIG OUT
+Added Pin To Net: NetName=STOP Pin=J-1
+Added Net: Name=STOP
+Added Member To Class: ClassName=общая плата Member=Component J 221790-1
+Added Member To Class: ClassName=общая плата Member=Component J 221790-1
+Added Member To Class: ClassName=общая плата Member=Component X1 24pin_conn
+Added Member To Class: ClassName=общая плата Member=Component X3 Model
+Added Member To Class: ClassName=общая плата Member=Component X6 24pin_conn
+Added Member To Class: ClassName=общая плата Member=Component X7 24pin_conn
+Added Member To Class: ClassName=общая плата Member=Component X8 24pin_conn

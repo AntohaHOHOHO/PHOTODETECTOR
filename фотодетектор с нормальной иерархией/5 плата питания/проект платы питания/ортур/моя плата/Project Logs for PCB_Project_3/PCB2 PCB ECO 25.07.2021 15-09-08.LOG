@@ -1,0 +1,87 @@
+Added Component: Designator=c1(FIL_NFM41PC155B1E3L)
+Added Component: Designator=C2(CAP_0603)
+Added Component: Designator=C3(CAPPM7343X310N)
+Added Component: Designator=C4(CAP_0603)
+Added Component: Designator=C5(CAPPM7343X310N)
+Added Component: Designator=C6(EECF5R5U474, 0.470 Τ, 5.5 Β, 5μμ)
+Added Component: Designator=C7(EECF5R5U474, 0.470 Τ, 5.5 Β, 5μμ)
+Added Component: Designator=D3(DO-214AC (SMA))
+Added Component: Designator=D4(DO-214AC (SMA))
+Added Component: Designator=D5(DO-214AC (SMA))
+Added Component: Designator=D6(DO-214AC (SMA))
+Added Component: Designator=DA1(CONV_TVN_5-2415WI)
+Added Component: Designator=DA2(CONV_TVN_5-2415WI)
+Added Component: Designator=FL1(BEADC2012X105N)
+Added Component: Designator=FL2(BEADC2012X105N)
+Added Component: Designator=FL3(BEADC2012X105N)
+Added Component: Designator=R1(RES_0805)
+Added Component: Designator=R2(RES_0805)
+Added Component: Designator=RT1(FUSER_MF-MSMF200-2)
+Added Component: Designator=VD1(DO-214AC (SMA))
+Added Component: Designator=VD2(DO-214AC (SMA))
+Added Pin To Net: NetName=Netc1_1 Pin=c1-1
+Added Pin To Net: NetName=Netc1_2 Pin=c1-2
+Added Pin To Net: NetName=GND Pin=c1-3
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=NetC4_1 Pin=C5-2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=Netc1_2 Pin=DA1-1
+Added Pin To Net: NetName=Netc1_2 Pin=DA1-2
+Added Pin To Net: NetName=GND Pin=DA1-3
+Added Pin To Net: NetName=GND Pin=DA1-12
+Added Pin To Net: NetName=GND Pin=DA1-14
+Added Pin To Net: NetName=+5V(DC) Pin=DA1-15
+Added Pin To Net: NetName=ON_OFF_DC Pin=DA1-22
+Added Pin To Net: NetName=GND Pin=DA1-23
+Added Pin To Net: NetName=GND Pin=DA1-24
+Added Pin To Net: NetName=Netc1_2 Pin=DA2-1
+Added Pin To Net: NetName=Netc1_2 Pin=DA2-2
+Added Pin To Net: NetName=GND Pin=DA2-3
+Added Pin To Net: NetName=GND Pin=DA2-12
+Added Pin To Net: NetName=-5 Pin=DA2-14
+Added Pin To Net: NetName=GND Pin=DA2-15
+Added Pin To Net: NetName=ON_OFF_DC Pin=DA2-22
+Added Pin To Net: NetName=GND Pin=DA2-23
+Added Pin To Net: NetName=GND Pin=DA2-24
+Added Pin To Net: NetName=NetFL1_1 Pin=FL1-1
+Added Pin To Net: NetName=Netc1_1 Pin=FL1-2
+Added Pin To Net: NetName=+5V(DC) Pin=FL2-1
+Added Pin To Net: NetName=NetC2_2 Pin=FL2-2
+Added Pin To Net: NetName=-5 Pin=FL3-1
+Added Pin To Net: NetName=NetC4_1 Pin=FL3-2
+Added Pin To Net: NetName=+5V Pin=R1-1
+Added Pin To Net: NetName=NetC6_1 Pin=R1-2
+Added Pin To Net: NetName=NetC7_2 Pin=R2-1
+Added Pin To Net: NetName=-5V Pin=R2-2
+Added Pin To Net: NetName=+12V_POWER Pin=RT1-1
+Added Pin To Net: NetName=NetRT1_2 Pin=RT1-2
+Added Member To Class: ClassName=Sheet1 Member=Component c1 1206Y2000103MXTE03
+Added Member To Class: ClassName=Sheet1 Member=Component C2 100n
+Added Member To Class: ClassName=Sheet1 Member=Component C3 100u
+Added Member To Class: ClassName=Sheet1 Member=Component C4 100n
+Added Member To Class: ClassName=Sheet1 Member=Component C5 100u
+Added Member To Class: ClassName=Sheet1 Member=Component C6 0,5F
+Added Member To Class: ClassName=Sheet1 Member=Component C7 0,5F
+Added Member To Class: ClassName=Sheet1 Member=Component D3 
+Added Member To Class: ClassName=Sheet1 Member=Component D4 Diode 1N4
+Added Member To Class: ClassName=Sheet1 Member=Component D5 
+Added Member To Class: ClassName=Sheet1 Member=Component D6 
+Added Member To Class: ClassName=Sheet1 Member=Component DA1 TVN_5-2411WI
+Added Member To Class: ClassName=Sheet1 Member=Component DA2 TVN_5-2411WI
+Added Member To Class: ClassName=Sheet1 Member=Component FL1 BLM15BX750SZ1D
+Added Member To Class: ClassName=Sheet1 Member=Component FL2 BLM15BX750SZ1D
+Added Member To Class: ClassName=Sheet1 Member=Component FL3 BLM15BX750SZ1D
+Added Member To Class: ClassName=Sheet1 Member=Component R1 50
+Added Member To Class: ClassName=Sheet1 Member=Component R2 50
+Added Member To Class: ClassName=Sheet1 Member=Component RT1 0.35A
+Added Member To Class: ClassName=Sheet1 Member=Component VD1 VS-15MQ040
+Added Member To Class: ClassName=Sheet1 Member=Component VD2 SMAJ15

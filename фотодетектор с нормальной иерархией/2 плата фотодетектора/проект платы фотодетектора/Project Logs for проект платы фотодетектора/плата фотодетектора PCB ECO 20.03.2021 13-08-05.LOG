@@ -1,0 +1,289 @@
+Change Component Description : Designator=FL2 Old Description=110 ???? @ 100 ???УNЖ 1 ?ї??????N? N??ї?µ??NВNИ?????µNИ?µ???∞NЗ NД?µNИNИ??NВ????NЛ?? N??∞NИ???? 0805 (2012 ???µNВNИ?????∞) 5A New Description=110 ???? @ 100 ???УNЖ 1 ?ї??????N? N??ї?µ??NВNИ?????µNИ?µ???∞NЗ NД?µNИNИ??NВ????NЛ?? N??∞NИ???? 0805 (2012 ???µNВNИ?????∞) 5A
+Change Component Description : Designator=FL4 Old Description=110 ???? @ 100 ???УNЖ 1 ?ї??????N? N??ї?µ??NВNИ?????µNИ?µ???∞NЗ NД?µNИNИ??NВ????NЛ?? N??∞NИ???? 0805 (2012 ???µNВNИ?????∞) 5A New Description=110 ???? @ 100 ???УNЖ 1 ?ї??????N? N??ї?µ??NВNИ?????µNИ?µ???∞NЗ NД?µNИNИ??NВ????NЛ?? N??∞NИ???? 0805 (2012 ???µNВNИ?????∞) 5A
+Change Component Description : Designator=FL1 Old Description=?s???????µ??N??∞NВ??NИ SMD N? ?µ??????N?NВN?NZ: 1.5 ???s?§ ?????ї. 20%. ???????????∞?їN??????µ ???∞??NИN??ґ?µ?????µ: 25Vdc New Description=?s???????µ??N??∞NВ??NИ SMD N? ?µ??????N?NВN?NZ: 1.5 ???s?§ ?????ї. 20%. ???????????∞?їN??????µ ???∞??NИN??ґ?µ?????µ: 25Vdc
+Change Component Description : Designator=FL3 Old Description=?s???????µ??N??∞NВ??NИ SMD N? ?µ??????N?NВN?NZ: 1.5 ???s?§ ?????ї. 20%. ???????????∞?їN??????µ ???∞??NИN??ґ?µ?????µ: 25Vdc New Description=?s???????µ??N??∞NВ??NИ SMD N? ?µ??????N?NВN?NZ: 1.5 ???s?§ ?????ї. 20%. ???????????∞?їN??????µ ???∞??NИN??ґ?µ?????µ: 25Vdc
+Added Component: Designator=C1(0603)
+Added Component: Designator=C2(0603)
+Added Component: Designator=C3(CAPC1608X90)
+Added Component: Designator=C4(0603)
+Added Component: Designator=C5(0603)
+Added Component: Designator=C6(0603)
+Added Component: Designator=C7(0603)
+Added Component: Designator=C8(0603)
+Added Component: Designator=C9(0603)
+Added Component: Designator=C10(0603)
+Added Component: Designator=C11(0603)
+Added Component: Designator=C12(0603)
+Added Component: Designator=C13(0603)
+Added Component: Designator=C14(0603)
+Added Component: Designator=C15(0603)
+Added Component: Designator=C16(0603)
+Added Component: Designator=C17(0603)
+Added Component: Designator=C18(0603)
+Added Component: Designator=C19(0603)
+Added Component: Designator=C20(0603)
+Added Component: Designator=C21(0603)
+Added Component: Designator=C22(0603)
+Added Component: Designator=C23(0603)
+Added Component: Designator=C24(0603)
+Added Component: Designator=C25(0603)
+Added Component: Designator=C26(0603)
+Added Component: Designator=C27(0603)
+Added Component: Designator=C28(0603)
+Added Component: Designator=C29(0603)
+Added Component: Designator=C30(0603)
+Added Component: Designator=R1(0603)
+Added Component: Designator=R2(0603)
+Added Component: Designator=R3(0603)
+Added Component: Designator=R4(0603)
+Added Component: Designator=R6(0603)
+Added Component: Designator=R7(0603)
+Added Component: Designator=R8(0603)
+Added Component: Designator=R10(0603)
+Added Component: Designator=R11(0603)
+Added Component: Designator=R12(0603)
+Added Component: Designator=R13(0603)
+Added Component: Designator=R14(0603)
+Added Component: Designator=R15(0603)
+Added Component: Designator=R16(0603)
+Added Component: Designator=R17(0603)
+Added Component: Designator=R18(0603)
+Added Component: Designator=R19(0603)
+Added Component: Designator=R20(0603)
+Added Component: Designator=R22(0603)
+Added Component: Designator=R24(0603)
+Added Component: Designator=R25(0603)
+Added Component: Designator=R26(0603)
+Added Component: Designator=R27(0603)
+Added Component: Designator=R28(0603)
+Added Component: Designator=R29(0603)
+Added Component: Designator=R30(0603)
+Added Component: Designator=R31(0603)
+Added Component: Designator=R32(0603)
+Added Component: Designator=R33(0603)
+Added Component: Designator=R34(0603)
+Added Component: Designator=R35(0603)
+Added Component: Designator=U1(SOIC127P599X175-8N)
+Added Component: Designator=U4(SOT238)
+Added Component: Designator=U5(SOT95P290X145-5N)
+Added Component: Designator=U6(SOT95P280X145-6N)
+Added Component: Designator=U7(SO8_L)
+Added Pin To Net: NetName=+5V(AN) Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=-5V(AN) Pin=C2-2
+Added Pin To Net: NetName=-5V(AN) Pin=C3-1
+Added Pin To Net: NetName=+5V(AN) Pin=C3-2
+Added Pin To Net: NetName=+5V(AN) Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=-5V(AN) Pin=C5-2
+Added Pin To Net: NetName=+5V(AN) Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=ANODE_APD Pin=C7-2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=+5V(AN) Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=+5V(AN) Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=-5V(AN) Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=-5V(AN) Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=+5V(AN) Pin=C17-2
+Added Pin To Net: NetName=-5V(AN) Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=+5V(AN) Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=-5V(AN) Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=+5V(AN) Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=+5V(AN) Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=-5V(AN) Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=+5V(AN) Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=NetC25_2 Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=NetC25_2 Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=NetC25_2 Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=NetC28_2 Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=NetC28_2 Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=-5V(AN) Pin=C30-2
+Added Pin To Net: NetName=INPUT+HV Pin=R1-1
+Added Pin To Net: NetName=CATHODE_APD Pin=R1-2
+Added Pin To Net: NetName=NetP3_1 Pin=R2-1
+Added Pin To Net: NetName=R_VG Pin=R2-2
+Added Pin To Net: NetName=NetP3_2 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=SIGNAL_OUT Pin=R4-2
+Added Pin To Net: NetName=NetR5_2 Pin=R6-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=ANODE_APD Pin=R8-1
+Added Pin To Net: NetName=NetC7_1 Pin=R8-2
+Added Pin To Net: NetName=NetC8_1 Pin=R10-1
+Added Pin To Net: NetName=NetR7_1 Pin=R10-2
+Added Pin To Net: NetName=SIGNAL Pin=R11-1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=R12-1
+Added Pin To Net: NetName=NetR4_1 Pin=R12-2
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=SIGNAL Pin=R13-2
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetC9_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_1 Pin=R15-1
+Added Pin To Net: NetName=NetC9_1 Pin=R15-2
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR13_1 Pin=R16-2
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=SIGNAL Pin=R17-2
+Added Pin To Net: NetName=NetC7_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=NetC12_2 Pin=R19-1
+Added Pin To Net: NetName=NetR16_1 Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=NetR18_2 Pin=R20-2
+Added Pin To Net: NetName=NetC14_2 Pin=R22-1
+Added Pin To Net: NetName=GND Pin=R22-2
+Added Pin To Net: NetName=NetR24_1 Pin=R24-1
+Added Pin To Net: NetName=R_VG Pin=R24-2
+Added Pin To Net: NetName=NetP4_1 Pin=R25-1
+Added Pin To Net: NetName=NetR23_2 Pin=R25-2
+Added Pin To Net: NetName=NetR26_1 Pin=R26-1
+Added Pin To Net: NetName=NetR24_1 Pin=R26-2
+Added Pin To Net: NetName=NetR27_1 Pin=R27-1
+Added Pin To Net: NetName=POT_CLK Pin=R27-2
+Added Pin To Net: NetName=NetR28_1 Pin=R28-1
+Added Pin To Net: NetName=POT_SDI Pin=R28-2
+Added Pin To Net: NetName=GND Pin=R29-1
+Added Pin To Net: NetName=VG_CS Pin=R29-2
+Added Pin To Net: NetName=+2.5REF Pin=R30-1
+Added Pin To Net: NetName=NetR26_1 Pin=R30-2
+Added Pin To Net: NetName=NetP5_1 Pin=R31-1
+Added Pin To Net: NetName=NetP4_2 Pin=R31-2
+Added Pin To Net: NetName=NetR32_1 Pin=R32-1
+Added Pin To Net: NetName=NetC25_2 Pin=R32-2
+Added Pin To Net: NetName=NetC28_2 Pin=R33-1
+Added Pin To Net: NetName=+5V(AN) Pin=R33-2
+Added Pin To Net: NetName=+2.5REF Pin=R34-1
+Added Pin To Net: NetName=NetR34_2 Pin=R34-2
+Added Pin To Net: NetName=-2.5REF Pin=R35-1
+Added Pin To Net: NetName=NetR35_2 Pin=R35-2
+Added Pin To Net: NetName=NetR11_2 Pin=U1-2
+Added Pin To Net: NetName=NetR6_2 Pin=U1-3
+Added Pin To Net: NetName=-5V(AN) Pin=U1-4
+Added Pin To Net: NetName=NetR4_1 Pin=U1-6
+Added Pin To Net: NetName=+5V(AN) Pin=U1-7
+Added Pin To Net: NetName=NetP4_3 Pin=U4-1
+Added Pin To Net: NetName=+5V(AN) Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=NetR27_1 Pin=U4-4
+Added Pin To Net: NetName=NetR28_1 Pin=U4-5
+Added Pin To Net: NetName=VG_CS Pin=U4-6
+Added Pin To Net: NetName=+2.5REF Pin=U4-7
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=NetR24_1 Pin=U5-1
+Added Pin To Net: NetName=-5V(AN) Pin=U5-2
+Added Pin To Net: NetName=NetP5_2 Pin=U5-3
+Added Pin To Net: NetName=NetR26_1 Pin=U5-4
+Added Pin To Net: NetName=+5V(AN) Pin=U5-5
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=NetC28_2 Pin=U6-4
+Added Pin To Net: NetName=NetR32_1 Pin=U6-5
+Added Pin To Net: NetName=NetC25_2 Pin=U6-6
+Added Pin To Net: NetName=+2.5REF Pin=U7-1
+Added Pin To Net: NetName=NetC25_2 Pin=U7-2
+Added Pin To Net: NetName=NetR34_2 Pin=U7-3
+Added Pin To Net: NetName=-5V(AN) Pin=U7-4
+Added Pin To Net: NetName=NetC25_2 Pin=U7-5
+Added Pin To Net: NetName=NetR35_2 Pin=U7-6
+Added Pin To Net: NetName=-2.5REF Pin=U7-7
+Added Pin To Net: NetName=+5V(AN) Pin=U7-8
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C1 6,8uF
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C2 6,8uF
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C3 CX0603MRX7R6BB104
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C4 0,1uF
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C5 o,1uF
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C6 2,2u
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C7 0.5p
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C8 100n
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C9 15p
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C10 6,8uF
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C11 100n
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C12 100n
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C13 2,2u
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C14 100n
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C15 100p
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C16 100n
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C17 4,7uF
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C18 6,6uF
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C19 100n
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C20 100n
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C21 100n
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C22 10u
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C23 4,7uF
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C24 100n
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C25 100n
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C26 1u
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C27 1u
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C28 100n
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C29 2,2u
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component C30 100n
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R1 CHV1206
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R2 1k
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R3 50
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R4 50
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R6 20k
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R7 50
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R8 10k
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R10 1k
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R11 400
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R12 400
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R13 50
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R14 500
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R15 500
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R16 500
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R17 50
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R18 50
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R19 4k
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R20 50
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R22 10k
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R24 50
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R25 1k
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R26 10k
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R27 50-300
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R28 50-300
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R29 5k
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R30 10k
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R31 10k
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R32 1k
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R33 1kom
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R34 1kom
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component R35 1kom
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component U1 OPA656U
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component U4 CAT5172
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component U5 AD8065ART-R2
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component U6 REF3225AMDBVREPG4
+Added Member To Class: ClassName=схема платы фотодетектора Member=Component U7 LM2904D

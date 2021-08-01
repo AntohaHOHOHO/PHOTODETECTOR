@@ -1,0 +1,103 @@
+Added Component: Designator=X1(PLS-2-3D)
+Added Component: Designator=X2(PLS-12-3D)
+Added Component: Designator=X3(PLS-12-3D)
+Added Component: Designator=X4(PLS-12-3D)
+Added Component: Designator=X5(PLS-12-3D)
+Added Component: Designator=X6(PLS-2-3D)
+Added Component: Designator=X7(USB_TypeB)
+Added Component: Designator=X8(PLS-12-3D)
+Added Component: Designator=X9(PLS-12-3D)
+Added Component: Designator=X10(PLS-12-3D)
+Added Component: Designator=X11(PLS-12-3D)
+Added Component: Designator=X12(PLS-12-3D)
+Added Component: Designator=X13(PLS-12-3D)
+Added Pin To Net: NetName=NetX2_1 Pin=X2-1
+Added Pin To Net: NetName=NetX2_1 Pin=X2-2
+Added Pin To Net: NetName=NetX2_3 Pin=X2-3
+Added Pin To Net: NetName=NetX2_3 Pin=X2-4
+Added Pin To Net: NetName=NetX2_5 Pin=X2-5
+Added Pin To Net: NetName=NetX2_5 Pin=X2-6
+Added Pin To Net: NetName=NetX2_7 Pin=X2-7
+Added Pin To Net: NetName=NetX2_7 Pin=X2-8
+Added Pin To Net: NetName=NetX2_9 Pin=X2-9
+Added Pin To Net: NetName=NetX2_10 Pin=X2-10
+Added Pin To Net: NetName=NetX2_12 Pin=X2-12
+Added Pin To Net: NetName=NetX2_1 Pin=X4-3
+Added Pin To Net: NetName=NetX2_5 Pin=X4-8
+Added Pin To Net: NetName=NetX2_9 Pin=X4-9
+Added Pin To Net: NetName=NetX2_10 Pin=X4-10
+Added Pin To Net: NetName=NetX2_12 Pin=X4-12
+Added Pin To Net: NetName=NetX2_5 Pin=X8-8
+Added Pin To Net: NetName=NetX2_9 Pin=X8-9
+Added Pin To Net: NetName=NetX2_10 Pin=X8-10
+Added Pin To Net: NetName=NetX2_12 Pin=X8-12
+Added Pin To Net: NetName=NetX2_5 Pin=X11-8
+Added Pin To Net: NetName=NetX2_9 Pin=X11-9
+Added Pin To Net: NetName=NetX2_10 Pin=X11-10
+Added Pin To Net: NetName=NetX2_12 Pin=X11-12
+Added Pin To Net: NetName=NetX2_1 Pin=X13-1
+Added Pin To Net: NetName=NetX2_1 Pin=X13-2
+Added Pin To Net: NetName=NetX2_3 Pin=X13-3
+Added Pin To Net: NetName=NetX2_3 Pin=X13-4
+Added Pin To Net: NetName=NetX2_5 Pin=X13-5
+Added Pin To Net: NetName=NetX2_5 Pin=X13-6
+Added Pin To Net: NetName=NetX2_5 Pin=X13-8
+Added Pin To Net: NetName=NetX2_11 Pin=X2-11
+Added Pin To Net: NetName=NetX2_11 Pin=X4-11
+Added Pin To Net: NetName=NetX2_11 Pin=X8-11
+Added Pin To Net: NetName=NetX2_11 Pin=X11-11
+Added Net: Name=NetX2_11
+Added Pin To Net: NetName=NetX4_1 Pin=X4-1
+Added Pin To Net: NetName=NetX4_1 Pin=X12-11
+Added Net: Name=NetX4_1
+Added Pin To Net: NetName=NetX4_2 Pin=X4-2
+Added Pin To Net: NetName=NetX4_2 Pin=X12-12
+Added Net: Name=NetX4_2
+Added Pin To Net: NetName=NetX8_4 Pin=X8-4
+Added Pin To Net: NetName=NetX8_4 Pin=X13-9
+Added Net: Name=NetX8_4
+Added Pin To Net: NetName=NetX8_5 Pin=X8-5
+Added Pin To Net: NetName=NetX8_5 Pin=X12-5
+Added Net: Name=NetX8_5
+Added Pin To Net: NetName=NetX8_6 Pin=X8-6
+Added Pin To Net: NetName=NetX8_6 Pin=X12-6
+Added Net: Name=NetX8_6
+Added Pin To Net: NetName=NetX11_1 Pin=X11-1
+Added Pin To Net: NetName=NetX11_1 Pin=X11-2
+Added Pin To Net: NetName=NetX11_1 Pin=X12-1
+Added Pin To Net: NetName=NetX11_1 Pin=X12-2
+Added Net: Name=NetX11_1
+Added Pin To Net: NetName=NetX11_3 Pin=X11-3
+Added Pin To Net: NetName=NetX11_3 Pin=X11-4
+Added Pin To Net: NetName=NetX11_3 Pin=X12-3
+Added Pin To Net: NetName=NetX11_3 Pin=X12-4
+Added Net: Name=NetX11_3
+Added Pin To Net: NetName=NetX12_7 Pin=X12-7
+Added Net: Name=NetX12_7
+Added Pin To Net: NetName=NetX12_8 Pin=X12-8
+Added Net: Name=NetX12_8
+Added Pin To Net: NetName=NetX12_9 Pin=X12-9
+Added Net: Name=NetX12_9
+Added Pin To Net: NetName=NetX12_10 Pin=X12-10
+Added Pin To Net: NetName=NetX12_10 Pin=X13-11
+Added Net: Name=NetX12_10
+Added Pin To Net: NetName=NetX13_7 Pin=X13-7
+Added Net: Name=NetX13_7
+Added Pin To Net: NetName=NetX13_10 Pin=X13-10
+Added Net: Name=NetX13_10
+Added Pin To Net: NetName=NetX13_12 Pin=X13-12
+Added Net: Name=NetX13_12
+Added Member To Class: ClassName=общая плата Member=Component X1 Model
+Added Member To Class: ClassName=общая плата Member=Component X2 Model
+Added Member To Class: ClassName=общая плата Member=Component X3 Model
+Added Member To Class: ClassName=общая плата Member=Component X4 Model
+Added Member To Class: ClassName=общая плата Member=Component X5 Model
+Added Member To Class: ClassName=общая плата Member=Component X6 Model
+Added Member To Class: ClassName=общая плата Member=Component X7 Model
+Added Member To Class: ClassName=общая плата Member=Component X8 Model
+Added Member To Class: ClassName=общая плата Member=Component X9 Model
+Added Member To Class: ClassName=общая плата Member=Component X10 Model
+Added Member To Class: ClassName=общая плата Member=Component X11 Model
+Added Member To Class: ClassName=общая плата Member=Component X12 Model
+Added Member To Class: ClassName=общая плата Member=Component X13 Model
+Added Room: Name=общая плата

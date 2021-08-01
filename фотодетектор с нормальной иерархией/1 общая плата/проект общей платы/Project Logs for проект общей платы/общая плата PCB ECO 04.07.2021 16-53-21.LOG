@@ -1,0 +1,12 @@
+Added Component: Designator=X1(BH-24)
+Added Pin To Net: NetName=NetX1_1 Pin=X1-1
+Added Pin To Net: NetName=NetX1_1 Pin=X1-1
+Added Pin To Net: NetName=NetX1_1 Pin=X1-1
+Added Pin To Net: NetName=NetX1_1 Pin=X1-1
+Added Pin To Net: NetName=NetX1_1 Pin=X1-1
+Added Pin To Net: NetName=NetX1_1 Pin=X1-1
+Added Pin To Net: NetName=NetX1_1 Pin=X1-1
+Added Pin To Net: NetName=NetX1_1 Pin=X1-1
+Added Pin To Net: NetName=NetX1_1 Pin=X1-1
+Added Pin To Net: NetName=NetX1_1 Pin=X1-1
+Added Member To Class: ClassName=общая плата Member=Component X1 24pin_conn

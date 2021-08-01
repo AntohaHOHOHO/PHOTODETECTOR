@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetX2_2 Pin=X2-2
+Removed Pin From Net: NetName=NetX2_7 Pin=X2-4
+Removed Pin From Net: NetName=NetX2_7 Pin=X2-5
+Removed Pin From Net: NetName=NetX2_7 Pin=X2-6
+Removed Pin From Net: NetName=NetX2_7 Pin=X2-7
+Removed Pin From Net: NetName=NetX2_7 Pin=X2-8
+Added Component: Designator=X2(BH-24)
+Added Pin To Net: NetName=NetX2_1 Pin=X2-2
+Added Pin To Net: NetName=NetX2_2 Pin=X2-2
+Added Pin To Net: NetName=NetX2_3 Pin=X2-4
+Added Pin To Net: NetName=NetX2_4 Pin=X2-4
+Added Pin To Net: NetName=NetX2_4 Pin=X2-5
+Added Pin To Net: NetName=NetX2_5 Pin=X2-5
+Added Pin To Net: NetName=NetX2_4 Pin=X2-6
+Added Pin To Net: NetName=NetX2_6 Pin=X2-6
+Added Pin To Net: NetName=NetX2_7 Pin=X2-7
+Added Pin To Net: NetName=NetX2_7 Pin=X2-7
+Added Pin To Net: NetName=NetX2_7 Pin=X2-8
+Added Pin To Net: NetName=NetX2_8 Pin=X2-8
+Added Pin To Net: NetName=NetX2_2 Pin=X2-14
+Added Pin To Net: NetName=NetX2_4 Pin=X2-16
+Added Pin To Net: NetName=NetX2_5 Pin=X2-17
+Added Pin To Net: NetName=NetX2_6 Pin=X2-18
+Added Pin To Net: NetName=NetX2_7 Pin=X2-19
+Added Pin To Net: NetName=NetX2_8 Pin=X2-20
+Added Member To Class: ClassName=общая плата Member=Component X2 24pin_conn

@@ -1,0 +1,91 @@
+Added Component: Designator=X1(PLS-12-3D)
+Added Component: Designator=X2(PLS-12-3D)
+Added Component: Designator=X3(PLS-13-3D)
+Added Component: Designator=X4(PLS-13-3D)
+Added Component: Designator=X5(PLS-13-3D)
+Added Component: Designator=X6(PLS-13-3D)
+Added Component: Designator=X7(PLS-2-3D)
+Added Component: Designator=X8(PLS-2-3D)
+Added Component: Designator=X9(USB_TypeB)
+Added Pin To Net: NetName=NetX1_1 Pin=X1-1
+Added Pin To Net: NetName=NetX1_1 Pin=X1-2
+Added Pin To Net: NetName=NetX1_1 Pin=X6-1
+Added Pin To Net: NetName=NetX1_1 Pin=X6-2
+Added Net: Name=NetX1_1
+Added Pin To Net: NetName=NetX1_3 Pin=X1-3
+Added Pin To Net: NetName=NetX1_3 Pin=X1-4
+Added Pin To Net: NetName=NetX1_3 Pin=X6-3
+Added Pin To Net: NetName=NetX1_3 Pin=X6-4
+Added Net: Name=NetX1_3
+Added Pin To Net: NetName=NetX1_5 Pin=X1-5
+Added Pin To Net: NetName=NetX1_5 Pin=X3-5
+Added Net: Name=NetX1_5
+Added Pin To Net: NetName=NetX1_6 Pin=X1-6
+Added Pin To Net: NetName=NetX1_6 Pin=X3-6
+Added Net: Name=NetX1_6
+Added Pin To Net: NetName=NetX1_7 Pin=X1-7
+Added Net: Name=NetX1_7
+Added Pin To Net: NetName=NetX1_8 Pin=X1-8
+Added Net: Name=NetX1_8
+Added Pin To Net: NetName=NetX1_9 Pin=X1-9
+Added Net: Name=NetX1_9
+Added Pin To Net: NetName=NetX1_10 Pin=X1-10
+Added Pin To Net: NetName=NetX1_10 Pin=X2-11
+Added Net: Name=NetX1_10
+Added Pin To Net: NetName=NetX1_11 Pin=X1-11
+Added Pin To Net: NetName=NetX1_11 Pin=X5-1
+Added Net: Name=NetX1_11
+Added Pin To Net: NetName=NetX1_12 Pin=X1-12
+Added Pin To Net: NetName=NetX1_12 Pin=X5-2
+Added Net: Name=NetX1_12
+Added Pin To Net: NetName=NetX2_1 Pin=X2-1
+Added Pin To Net: NetName=NetX2_1 Pin=X2-2
+Added Pin To Net: NetName=NetX2_1 Pin=X4-1
+Added Pin To Net: NetName=NetX2_1 Pin=X4-2
+Added Pin To Net: NetName=NetX2_1 Pin=X5-3
+Added Net: Name=NetX2_1
+Added Pin To Net: NetName=NetX2_3 Pin=X2-3
+Added Pin To Net: NetName=NetX2_3 Pin=X2-4
+Added Pin To Net: NetName=NetX2_3 Pin=X4-3
+Added Pin To Net: NetName=NetX2_3 Pin=X4-4
+Added Net: Name=NetX2_3
+Added Pin To Net: NetName=NetX2_5 Pin=X2-5
+Added Pin To Net: NetName=NetX2_5 Pin=X2-6
+Added Pin To Net: NetName=NetX2_5 Pin=X2-8
+Added Pin To Net: NetName=NetX2_5 Pin=X3-8
+Added Pin To Net: NetName=NetX2_5 Pin=X4-5
+Added Pin To Net: NetName=NetX2_5 Pin=X4-6
+Added Pin To Net: NetName=NetX2_5 Pin=X5-8
+Added Pin To Net: NetName=NetX2_5 Pin=X6-8
+Added Net: Name=NetX2_5
+Added Pin To Net: NetName=NetX2_7 Pin=X2-7
+Added Net: Name=NetX2_7
+Added Pin To Net: NetName=NetX2_9 Pin=X2-9
+Added Pin To Net: NetName=NetX2_9 Pin=X3-4
+Added Net: Name=NetX2_9
+Added Pin To Net: NetName=NetX2_10 Pin=X2-10
+Added Net: Name=NetX2_10
+Added Pin To Net: NetName=NetX2_12 Pin=X2-12
+Added Net: Name=NetX2_12
+Added Pin To Net: NetName=NetX3_9 Pin=X3-9
+Added Pin To Net: NetName=NetX3_9 Pin=X4-9
+Added Pin To Net: NetName=NetX3_9 Pin=X5-9
+Added Pin To Net: NetName=NetX3_9 Pin=X6-9
+Added Net: Name=NetX3_9
+Added Pin To Net: NetName=NetX3_10 Pin=X3-10
+Added Pin To Net: NetName=NetX3_10 Pin=X4-10
+Added Pin To Net: NetName=NetX3_10 Pin=X5-10
+Added Pin To Net: NetName=NetX3_10 Pin=X6-10
+Added Net: Name=NetX3_10
+Added Pin To Net: NetName=NetX3_11 Pin=X3-11
+Added Pin To Net: NetName=NetX3_11 Pin=X4-11
+Added Pin To Net: NetName=NetX3_11 Pin=X5-11
+Added Pin To Net: NetName=NetX3_11 Pin=X6-11
+Added Net: Name=NetX3_11
+Added Pin To Net: NetName=NetX3_12 Pin=X3-12
+Added Pin To Net: NetName=NetX3_12 Pin=X4-12
+Added Pin To Net: NetName=NetX3_12 Pin=X5-12
+Added Pin To Net: NetName=NetX3_12 Pin=X6-12
+Added Net: Name=NetX3_12
+Added Class: Name=общая плата
+Added Room: Name=общая плата
